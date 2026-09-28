@@ -11,7 +11,7 @@ Repository cá nhân dùng để lưu trữ bài tập và sản phẩm học t�
 
 ## Cấu trúc repository
 
-``text
+```text
 .
 ├── assignments/
 │   ├── README.md
