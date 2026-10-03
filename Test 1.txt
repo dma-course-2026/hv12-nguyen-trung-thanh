@@ -2,4 +2,4 @@ homework 3rd week
 
 thử lần tạo nhánh mới "homework"
 
-thử lần tạo nhánh 2nd "homework2nd"
+thử lần tạo nhánh 2nd "homework2nd", trial conflicth
